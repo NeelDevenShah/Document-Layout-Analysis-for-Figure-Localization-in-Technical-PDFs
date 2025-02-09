@@ -1,0 +1,39 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+
+# Data files
+data/
+*.csv
+*.h5
+*.hdf5
+
+# Model files
+*.ckpt
+*.h5
+*.hdf5
+*.pb
+
+# TensorBoard log files
+logs/
+events.out.tfevents.*
+
+# Saved model files
+saved_model/
+
+# Checkpoints
+checkpoints/
+
+# Weights and biases
+wandb/
